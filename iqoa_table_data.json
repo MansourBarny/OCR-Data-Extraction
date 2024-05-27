@@ -1,0 +1,258 @@
+[
+    {
+        "text": "EQUIPEMENTS",
+        "left": 394,
+        "top": 70,
+        "width": 293,
+        "height": 38,
+        "confidence": 92
+    },
+    {
+        "text": "SUR",
+        "left": 199,
+        "top": 198,
+        "width": 80,
+        "height": 28,
+        "confidence": 89
+    },
+    {
+        "text": "OUVRAGE",
+        "left": 291,
+        "top": 197,
+        "width": 203,
+        "height": 30,
+        "confidence": 89
+    },
+    {
+        "text": ".",
+        "left": 52,
+        "top": 385,
+        "width": 4,
+        "height": 5,
+        "confidence": 89
+    },
+    {
+        "text": "Chauss\u00e9e",
+        "left": 80,
+        "top": 361,
+        "width": 149,
+        "height": 29,
+        "confidence": 92
+    },
+    {
+        "text": ".",
+        "left": 52,
+        "top": 457,
+        "width": 4,
+        "height": 4,
+        "confidence": 87
+    },
+    {
+        "text": "Trottoirs",
+        "left": 80,
+        "top": 433,
+        "width": 140,
+        "height": 29,
+        "confidence": 91
+    },
+    {
+        "text": "et",
+        "left": 231,
+        "top": 438,
+        "width": 29,
+        "height": 23,
+        "confidence": 93
+    },
+    {
+        "text": "bordures",
+        "left": 271,
+        "top": 432,
+        "width": 140,
+        "height": 29,
+        "confidence": 91
+    },
+    {
+        "text": ".",
+        "left": 52,
+        "top": 529,
+        "width": 5,
+        "height": 4,
+        "confidence": 92
+    },
+    {
+        "text": "Dispositifs",
+        "left": 80,
+        "top": 504,
+        "width": 172,
+        "height": 37,
+        "confidence": 92
+    },
+    {
+        "text": "de",
+        "left": 265,
+        "top": 504,
+        "width": 35,
+        "height": 28,
+        "confidence": 93
+    },
+    {
+        "text": "retenue",
+        "left": 313,
+        "top": 509,
+        "width": 117,
+        "height": 24,
+        "confidence": 93
+    },
+    {
+        "text": ".",
+        "left": 52,
+        "top": 600,
+        "width": 5,
+        "height": 4,
+        "confidence": 91
+    },
+    {
+        "text": "Corniches",
+        "left": 80,
+        "top": 576,
+        "width": 161,
+        "height": 28,
+        "confidence": 91
+    },
+    {
+        "text": ".",
+        "left": 52,
+        "top": 682,
+        "width": 4,
+        "height": 4,
+        "confidence": 91
+    },
+    {
+        "text": "Dispositifs",
+        "left": 80,
+        "top": 657,
+        "width": 171,
+        "height": 36,
+        "confidence": 91
+    },
+    {
+        "text": "d'\u00e9vacuation",
+        "left": 264,
+        "top": 656,
+        "width": 200,
+        "height": 30,
+        "confidence": 70
+    },
+    {
+        "text": "des",
+        "left": 476,
+        "top": 656,
+        "width": 51,
+        "height": 29,
+        "confidence": 96
+    },
+    {
+        "text": "eaux",
+        "left": 539,
+        "top": 664,
+        "width": 73,
+        "height": 21,
+        "confidence": 96
+    },
+    {
+        "text": ".",
+        "left": 53,
+        "top": 754,
+        "width": 4,
+        "height": 4,
+        "confidence": 86
+    },
+    {
+        "text": "Joints",
+        "left": 80,
+        "top": 730,
+        "width": 92,
+        "height": 28,
+        "confidence": 96
+    },
+    {
+        "text": "de",
+        "left": 185,
+        "top": 729,
+        "width": 36,
+        "height": 29,
+        "confidence": 92
+    },
+    {
+        "text": "chauss\u00e9e",
+        "left": 233,
+        "top": 730,
+        "width": 141,
+        "height": 28,
+        "confidence": 92
+    },
+    {
+        "text": "et",
+        "left": 387,
+        "top": 734,
+        "width": 27,
+        "height": 23,
+        "confidence": 96
+    },
+    {
+        "text": "de",
+        "left": 426,
+        "top": 729,
+        "width": 36,
+        "height": 28,
+        "confidence": 92
+    },
+    {
+        "text": "trottoirs",
+        "left": 473,
+        "top": 728,
+        "width": 125,
+        "height": 29,
+        "confidence": 91
+    },
+    {
+        "text": ".",
+        "left": 52,
+        "top": 835,
+        "width": 5,
+        "height": 5,
+        "confidence": 88
+    },
+    {
+        "text": "Autres",
+        "left": 80,
+        "top": 811,
+        "width": 104,
+        "height": 28,
+        "confidence": 93
+    },
+    {
+        "text": "\u00e9quipements",
+        "left": 196,
+        "top": 810,
+        "width": 202,
+        "height": 38,
+        "confidence": 91
+    },
+    {
+        "text": "sur",
+        "left": 411,
+        "top": 819,
+        "width": 48,
+        "height": 19,
+        "confidence": 90
+    },
+    {
+        "text": "ouvrage",
+        "left": 470,
+        "top": 818,
+        "width": 126,
+        "height": 28,
+        "confidence": 90
+    }
+]
